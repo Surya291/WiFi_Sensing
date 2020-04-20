@@ -25,7 +25,7 @@ Received signal strength indicator(RSSI) ​ (or)​ Channel state information(C
 ➔ The Machine learning algorithm will be a supervised learning classification algorithm
 and we have not decided on the specific algorithm.
 
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 A small detour from the prime aim : 
 
 We gathered some data from a company , the data consists of .dat files which has the csi values for collected between receivers
@@ -38,7 +38,7 @@ We are trying to analyse the data and thus want to predice whether there is a mo
 
 WORK IN PROGRESS !!!
 
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
 
 
