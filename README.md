@@ -2,6 +2,10 @@
 
 This project is done as a part of IDP 2020 : Theme is Communication Systems !!
 
+A detailed report of the project is provided in :
+WiFi_Sensing/REPORTS/IDP_reportfinal.pdf
+
+
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
 Brief Summary of the project : 
