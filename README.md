@@ -5,10 +5,10 @@ This project is done as a part of IDP 2020 : Theme is Communication Systems !!
 
 
 The projext proposal is :
-[a relative link](REPORTS/Project%20proposal.pdf)
+[HERE](REPORTS/Project%20proposal.pdf)
 
 A detailed report of the project is provided in :
-[a relative link](REPORTS/IDP_report%20final.pdf)
+[HERE](REPORTS/IDP_report%20final.pdf)
 
 YOUTUBE LINKS FOR BETTER EXPLANATION : 
 They are two parts made as a part of mid term and end term evaluation.
