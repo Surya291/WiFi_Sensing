@@ -2,8 +2,22 @@
 
 This project is done as a part of IDP 2020 : Theme is Communication Systems !!
 
+
+
+The projext proposal is :
+[a relative link](REPORTS/Project%20proposal.pdf)
+
 A detailed report of the project is provided in :
-WiFi_Sensing/REPORTS/IDP_reportfinal.pdf
+[a relative link](REPORTS/IDP_report%20final.pdf)
+
+YOUTUBE LINKS FOR BETTER EXPLANATION : 
+They are two parts made as a part of mid term and end term evaluation.
+
+MID TERM VIDEO : 
+[PART 1](https://www.youtube.com/watch?v=uz0XxCzJC3w&t=1s)
+
+END TERM VIDEO : 
+[PART 2](https://www.youtube.com/watch?v=lXN8tgN6gGg&t=1408s)
 
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
